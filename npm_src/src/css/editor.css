@@ -1,0 +1,28 @@
+.active-brush {
+  cursor: url(https://easyread.nosdn.127.net/web/trunk/1476932544004/brush.png), auto !important;
+}
+
+.divmargin {
+  margin-top: 5px;
+}
+
+.catalog-tree {
+  width: 20%;
+  min-width: 200px;
+}
+
+.content {
+  width: 80%;
+}
+
+.el-upload__input {
+  display: none!important;
+}
+
+.el-message {
+  top: 200px;
+}
+
+.el-popover {
+  min-width: inherit!important;
+}
